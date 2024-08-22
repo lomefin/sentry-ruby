@@ -5,6 +5,7 @@
 - Add support for $SENTRY_DEBUG and $SENTRY_SPOTLIGHT ([#2374](https://github.com/getsentry/sentry-ruby/pull/2374))
 - Support human readable intervals in `sidekiq-cron` ([#2387](https://github.com/getsentry/sentry-ruby/pull/2387))
 - Set default app dirs pattern ([#2390](https://github.com/getsentry/sentry-ruby/pull/2390))
+- Experimental support for multi-threaded debugging using Vernier ([#2372](https://github.com/getsentry/sentry-ruby/pull/2372))
 
 ## 5.19.0
 
